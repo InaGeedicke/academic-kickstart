@@ -18,27 +18,58 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Post doctoral associate"
+  company = "University of Florida"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "USA"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research
+  * Lab management
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD"
+  company = "Macquarie University and University of Hamburg"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Australia and Germany"
+  date_start = "2015-09-01"
+  date_end = "2019-04-01"
+  description = """
+  Responsibilities include:
+  
+  * Research: Urban ecology and wetland ecology
+  * Tutoring
+  * Organizing R-users group
+  * Workshops for Software Carpentry
+  """
+  
+  [[experience]]
+  title = "Master of Science"
+  company = "University of Hamburg"
+  company_url = ""
+  location = "Germany"
+  date_start = "2012-10-01"
+  date_end = "2015-01-01"
+  description = """
+  Responsibilities include:
+  
+  * Research: Management of cultural landscapes and phylogeny
+  * Focus on plant ecology and molecular biology
+  """
 
+[[experience]]
+  title = "Bachelor of Science"
+  company = "University of Applied Sciences"
+  company_url = ""
+  location = "Germany"
+  date_start = "2007-02-01"
+  date_end = "2012-08-01"
+  description = """
+  
+  Focus on molecular biology and bio-engineering
+  """
 +++
