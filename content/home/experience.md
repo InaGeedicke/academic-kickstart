@@ -18,16 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Guest Scientist"
+  company = "Ghent University"
+  company_url = ""
+  location = "Belgium"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Scholarship holder of Professorin Rübsamen-Schaeff scholarship for Women in Science
+  * Grant writing
+  """
+
+[[experience]]
   title = "Post doctoral associate"
   company = "University of Florida"
   company_url = ""
   location = "USA"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-02-28"
   description = """
   Responsibilities include:
   
-  * Research
+  * Research: drought effect on crop systems (i.e. peanuts)
   * Lab management
   """
 
