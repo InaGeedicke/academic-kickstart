@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral associate
+role: Guest Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Florida
+- name: Gent University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,6 +24,7 @@ interests:
 - Urban ecology
 - Plant ecophysiology
 - Statistics
+- Citizen Science
 
 education:
   courses:
@@ -70,5 +71,5 @@ social:
 #- Visitors
 ---
 
-I am a post doctoral associate at the University of Florida in Dr Diane Rowlands lab. My research interests include urban ecology, management strategies and plant ecophysiology. During my career I had the opportunity to work in different anthropogenically influenced ecosystems, i.e. managed heathlands, wetlands in proximity to urban development and agricultural landscapes. I am interested in the impact of human development and involvement on natural systems, their diversity and their physiology.
+My research interests include urban ecology, management strategies and plant ecophysiology. During my career I had the opportunity to work in different anthropogenically influenced ecosystems, i.e. managed heathlands, wetlands in proximity to urban development and agricultural landscapes. I am interested in the impact of human development and involvement on natural systems, their diversity and their physiology.
 
